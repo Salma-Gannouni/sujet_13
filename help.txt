@@ -1,0 +1,12 @@
+-T : Taille totale occupée (en Mo/Ko/Go)
+• -t : Taille occupée par les fichiers/répertoires cachés
+• -N : nombre de fichiers/répertoires(non vides)/ liens symboliques .
+• -n : affiche le Nombres de petits fichiers (moins de 512ko) et gros fichiers (plus de 15 Mo)
+• -s : affiche le Nombre de fichiers et répertoires vides (qui peuvent probablement être supprimés)
+• -d : Nombre de fichiers Python, ou html, etc...
+• -h : Pour afficher le help détaillé à partir d’un fichier texte
+• -m : pour afficher un menu textuel et gérer les fonctionnalité de façon graphique(Utilisation de YAD).
+• -h: Pour afficher le help détaillé à partir d’un fichier texte
+• -g: Pour afficher un menu textuel et gérer les fonctionnalité de façon graphique(Utilisation de YAD).
+• -v: Pour afficher le nom des auteurs et version du code.
+• -m: Pour afficher un menu textuel
